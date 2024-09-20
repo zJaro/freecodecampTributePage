@@ -1,0 +1,26 @@
+/* CSS RESET */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: 5px auto;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  display: flex;
+  margin: 10px auto;
+}
+
+figure {
+  width: 100%;
+}
+
+figcaption {
+  margin-top: 10px;
+}
